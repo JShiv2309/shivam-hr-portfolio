@@ -326,6 +326,25 @@ section {
   backdrop-filter: blur(4px);
   z-index: 2000;
 }
+/* =========================
+   CONTACT MODAL – CENTERED CONTENT
+========================= */
+
+.contact-modal {
+  text-align: center;
+}
+
+/* Center the list container */
+.contact-modal ul {
+  display: inline-block;
+  text-align: left; /* keeps text readable */
+  margin-top: 12px;
+}
+
+/* Optional: tighter spacing */
+.contact-modal li {
+  margin-bottom: 6px;
+}
 
 /* =========================
    RESUME MODAL

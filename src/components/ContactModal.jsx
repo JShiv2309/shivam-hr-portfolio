@@ -34,33 +34,33 @@ export default function ContactModal({ isOpen, onClose }) {
           <li>
             <strong>LinkedIn:</strong>{" "}
             <a
-              href="https://linkedin.com/in/shivam-jaiswal"
+              href="https://www.linkedin.com/in/shivam-jaiswal-0b5073243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFBgJc7NcRFyp51XfLwxJHw%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
             >
-              linkedin.com/in/shivam-jaiswal
+              Shivam Jaiswal
             </a>
           </li>
 
           <li>
             <strong>GitHub:</strong>{" "}
             <a
-              href="https://github.com/your-github-username"
+              href="https://github.com/JShiv2309"
               target="_blank"
               rel="noopener noreferrer"
             >
-              github.com/your-github-username
+              JShiv2309
             </a>
           </li>
 
           <li>
             <strong>Instagram:</strong>{" "}
             <a
-              href="https://instagram.com/your-instagram-handle"
+              href="https://www.instagram.com/shivj_23/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              instagram.com/your-instagram-handle
+              Shivj_23
             </a>
           </li>
         </ul>
